@@ -13,7 +13,7 @@ http.createServer((request,response)=>{
 
    //closing the server
    response.end();
-=======
+    
 const http=require("http"); //es5 writing format
 //creating a server
 
